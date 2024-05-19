@@ -98,9 +98,13 @@ You can find my detailed CV [here](link-to-your-cv).
 
 ## Projects
 
-### Project 1: [Project Name 1](link-to-project-1)
-- **Description**: Briefly describe the project, your role, technologies used, challenges faced, and your contributions.
-- **Technologies**: List the technologies, frameworks, and tools used in the project.
+### Project 1: [Mocha and Chai API assertions](https://github.com/Estherokafor05/Mocha-API-test)
+- **Description**: The project involved testing an API endpoint from the Star Wars API (https://swapi.dev/api). I developed and executed Mocha API tests to verify the response data, headers, and schema validation. Challenges included handling asynchronous requests and ensuring accurate JSON schema validation. 
+- **Technologies**: 
+Mocha
+Chai
+Supertest
+Star Wars API (swapi.dev)
 
 ### Project 2: [Project Name 2](link-to-project-2)
 - **Description**: Briefly describe the project, your role, technologies used, challenges faced, and your contributions.
