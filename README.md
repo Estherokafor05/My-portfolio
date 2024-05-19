@@ -4,10 +4,6 @@
 
 I am a dedicated Quality Assurance professional with over 4 years of experience in ensuring the quality and reliability of software products. My passion lies in delivering high-quality solutions through meticulous testing methodologies and automation practices.
 
-## CV
-
-You can find my detailed CV [here](link-to-your-cv).
-
 ## Professional Summary
 
 - **Experience**: Over 4 years in Quality Assurance, with expertise in both manual and automated testing.
@@ -106,17 +102,9 @@ Chai
 Supertest
 Star Wars API (swapi.dev)
 
-### Project 2: [Project Name 2](link-to-project-2)
-- **Description**: Briefly describe the project, your role, technologies used, challenges faced, and your contributions.
-- **Technologies**: List the technologies, frameworks, and tools used in the project.
-
-### Project 3: [Project Name 3](link-to-project-3)
-- **Description**: Briefly describe the project, your role, technologies used, challenges faced, and your contributions.
-- **Technologies**: List the technologies, frameworks, and tools used in the project.
-
 ## Blog/Articles
 
-[estherokafor.com](estherokafor.com)
+(estherokafor.com)
 
 ## Contact Information
 
