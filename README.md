@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a dedicated Quality Assurance professional with over 3 years of experience in ensuring the quality and reliability of software products. My passion lies in delivering high-quality solutions through meticulous testing methodologies and automation practices.
+I am a dedicated Quality Assurance professional with over 4 years of experience in ensuring the quality and reliability of software products. My passion lies in delivering high-quality solutions through meticulous testing methodologies and automation practices.
 
 ## CV
 
@@ -11,7 +11,10 @@ You can find my detailed CV [here](link-to-your-cv).
 
 ## Professional Summary
 
-An overview of your expertise, key skills, and accomplishments in the field of Quality Assurance.
+- **Experience**: Over 4 years in Quality Assurance, with expertise in both manual and automated testing.
+- **Skills**: Proficient in test planning, test case creation, bug reporting, and test automation using tools like Cypress and Playwright 
+- **Tools**: Familiar with a variety of QA tools and platforms including Xray, JIRA, GitHub, Jmeter, postman, git, github actions, Jenkins, and more.
+- **Methodologies**: Strong understanding of Agile and Scrum methodologies, with experience working in collaborative and dynamic environments.
 
 ## Skills
 
