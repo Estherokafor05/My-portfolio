@@ -85,7 +85,7 @@ I am a dedicated Quality Assurance professional with over 4 years of experience 
 ## Speaking Engagements
 - Test Festival
 - Empower Her
-- Interswitch
+- Women who code
 
 ## Mentoring
 - DevCareer
