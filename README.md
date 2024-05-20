@@ -104,7 +104,7 @@ Star Wars API (swapi.dev)
 
 ## Blog/Articles
 
-(estherokafor.com)
+[https://estherokafor.com/](https://estherokafor.com/)
 
 ## Contact Information
 
