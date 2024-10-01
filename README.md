@@ -94,7 +94,7 @@ I am a dedicated Quality Assurance professional with over 4 years of experience 
 
 ## Projects
 
-### Project 1: [Mocha and Chai API assertions](https://github.com/Estherokafor05/Mocha-API-test)
+### [Mocha and Chai API assertions](https://github.com/Estherokafor05/Mocha-API-test)
 - **Description**: The project involved testing an API endpoint from the Star Wars API (https://swapi.dev/api). I developed and executed Mocha API tests to verify the response data, headers, and schema validation. Challenges included handling asynchronous requests and ensuring accurate JSON schema validation. 
 - **Technologies**: 
 Mocha
