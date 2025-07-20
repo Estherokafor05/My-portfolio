@@ -57,17 +57,17 @@ I am a dedicated Quality Assurance professional with over 4 years of experience 
 - Created and maintained over 700 automated UI and API tests across various user journeys, significantly enhancing test coverage and ensuring comprehensive testing.
 - Formulated comprehensive test plans utilizing Xray, leading to a remarkable 50% reduction in critical defects during production release.
 
-### FLUTTERWAVE | Lagos, Nigeria | Quality Control Analyst | 2022-2023
+### FLUTTERWAVE | Quality Control Analyst | 2022-2023
 - Conducted proficient testing on Middleware application services, with a particular focus on POS merchant profiling, ensuring the reliability and accuracy of critical functionalities.
 - Engineered customer-centric testing strategies, fostering seamless coordination across teams and aligning testing efforts with customer needs and expectations.
 - Collaborated on cross-team testing methodologies, facilitating the exchange of insights and best practices, ultimately enhancing the overall product quality and user experience.
 - Identified potential issues proactively and communicated improvement strategies effectively, contributing to the continual enhancement of product performance and customer satisfaction.
 
-### RENMONEY/MFB | Lagos, Nigeria | Mobile QA Engineer | 2021-2022
+### RENMONEY/MFB | Mobile QA Engineer | 2021-2022
 - Led mobile test automation initiatives utilizing Katalon, resulting in a remarkable 50% reduction in mobile regression testing duration.
 - Designed and executed a comprehensive test automation strategy for end-to-end loan service testing, leading to a notable 30% decrease in testing efforts.
 
-### Venture Garden Group | Lagos, Nigeria | QA Engineer | 2020-2021
+### Venture Garden Group | QA Engineer | 2020-2021
 - Developed comprehensive automation testing plans, ensuring meticulous coverage of essential activities across all testing phases.
 - Utilized tools like Postman and Cypress to execute efficient API testing and implement robust test automation strategies.
 - Effectively managed test automation activities across multiple concurrent project delivery streams, demonstrating adept coordination skills in a dynamic environment.
