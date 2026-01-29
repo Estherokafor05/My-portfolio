@@ -1,115 +1,165 @@
-# Esther Okafor QA Portfolio
+Esther Okafor — QA Engineering Portfolio
 
-## About Me
+📍 United Kingdom
+📧 estherokafor05@gmail.com
 
-I am a dedicated Quality Assurance professional with over 4 years of experience in ensuring the quality and reliability of software products. My passion lies in delivering high-quality solutions through meticulous testing methodologies and automation practices.
+🔗 LinkedIn
+ | GitHub
 
-## Professional Summary
+About Me
 
-- **Experience**: Over 4 years in Quality Assurance, with expertise in both manual and automated testing.
-- **Skills**: Proficient in test planning, test case creation, bug reporting, and test automation using tools like Cypress, Playwright, and Katalon.
-- **Tools**: Familiar with a variety of QA tools and platforms including Xray, JIRA, GitHub, JMeter, Postman, Git, GitHub Actions, Jenkins, and more.
-- **Methodologies**: Strong understanding of Agile and Scrum methodologies, with experience working in collaborative and dynamic environments.
+I’m a Senior Quality Assurance Engineer with 6+ years of experience testing and validating complex web platforms, APIs, and distributed systems. I specialise in automation-first quality strategies, integration testing, and building reliable test frameworks that scale with fast-moving engineering teams.
 
-## Skills
+My focus is on preventing defects early, improving confidence in releases, and helping teams ship software that works reliably in production—not just in test environments.
 
-### Manual Testing
-- Proficient in black box, white box, functional, regression, and user acceptance testing.
-- Skilled in creating comprehensive test plans, test cases, and test scripts.
-- Strong understanding of various testing techniques and methodologies.
-- Proficient in executing shift-left testing methodologies to proactively identify and address discrepancies in the development process.
+Professional Summary
 
-### Automation Testing
-- Expertise in test automation frameworks such as Cypress, Playwright, and Appium.
-- Proficient in writing automated test scripts in languages like JavaScript and TypeScript.
-- Experience in integrating automated tests into Continuous Integration/Continuous Deployment (CI/CD) pipelines using GitHub Actions, Docker and Jenkins.
+Experience: 6+ years across fintech, SaaS, Web3, and content platforms
 
-### API Testing
-- In-depth knowledge of API testing tools like Postman.
-- Hands-on experience in testing RESTful and SOAP APIs, validating responses, and ensuring data integrity.
-- Possess extensive expertise in leveraging Chrome DevTools for API debugging and performance analysis, harnessing its comprehensive capabilities to enhance development efficiency and optimize application performance.
+Expertise: Test automation, API testing, frontend–backend integrations, CI/CD quality gates
 
-### Test Management
-- Proficient in using test management tools like JIRA, TestRail, and Xray for test case management, execution, and reporting.
-- Experience in creating and maintaining test documentation including test plans, test cases, and test reports.
+Automation: Playwright, Cypress, Katalon, Appium (JavaScript / TypeScript)
 
-### Tools & Technologies
-- Cypress
-- Postman
-- JIRA
-- TestRail
-- Git/GitHub
-- Docker (for containerization in testing environments)
-- JMeter
-- BrowserStack
-- Katalon
-- Mocha and chai
-- Playwright
-- Github actions
-- Chrome DEVtools
+API & Performance: Postman, Newman, RESTful APIs, JMeter
 
-## Professional Experience
+Quality at Scale: Regression, E2E, monitoring, production issue analysis
 
-### STORYBLOK GmbH | Austria, Vienna | QA Engineer | 2022-Present
-- Led the implementation of Cypress Visual testing, resulting in a notable 20% increase in conversion rates and a significant 30% reduction in UI performance issues.
-- Optimised API testing with the Postman suite, effectively reducing testing time by 40% and decreasing API-related issues by 25%.
-- Reduced test execution time by 30% through the adoption of Cypress for visual UI testing along with Postman for API test automation.
-- Created and maintained over 700 automated UI and API tests across various user journeys, significantly enhancing test coverage and ensuring comprehensive testing.
-- Formulated comprehensive test plans utilizing Xray, leading to a remarkable 50% reduction in critical defects during production release.
+Ways of Working: Agile, async collaboration, cross-functional mentoring
 
-### FLUTTERWAVE | Quality Control Analyst | 2022-2023
-- Conducted proficient testing on Middleware application services, with a particular focus on POS merchant profiling, ensuring the reliability and accuracy of critical functionalities.
-- Engineered customer-centric testing strategies, fostering seamless coordination across teams and aligning testing efforts with customer needs and expectations.
-- Collaborated on cross-team testing methodologies, facilitating the exchange of insights and best practices, ultimately enhancing the overall product quality and user experience.
-- Identified potential issues proactively and communicated improvement strategies effectively, contributing to the continual enhancement of product performance and customer satisfaction.
+Key Skills
+Manual & Exploratory Testing
 
-### RENMONEY/MFB | Mobile QA Engineer | 2021-2022
-- Led mobile test automation initiatives utilizing Katalon, resulting in a remarkable 50% reduction in mobile regression testing duration.
-- Designed and executed a comprehensive test automation strategy for end-to-end loan service testing, leading to a notable 30% decrease in testing efforts.
+Functional, regression, smoke, and UAT testing
 
-### Venture Garden Group | QA Engineer | 2020-2021
-- Developed comprehensive automation testing plans, ensuring meticulous coverage of essential activities across all testing phases.
-- Utilized tools like Postman and Cypress to execute efficient API testing and implement robust test automation strategies.
-- Effectively managed test automation activities across multiple concurrent project delivery streams, demonstrating adept coordination skills in a dynamic environment.
-- Showcased expertise in leveraging continuous integration frameworks like Jenkins, streamlining testing processes, and seamlessly integrating them within the development lifecycle.
+Risk-based and shift-left testing approaches
 
-## Education
+Clear test documentation and defect reporting
 
-- **HND in Mass Communication** - Yaba College of Technology, Lagos, Nigeria (2016-2018)
-- **OND in Mass Communication** - Federal Polytechnic Oko, Anambra, Nigeria (2012-2014)
+Automation Testing
 
-## Certifications
+Playwright, Cypress, Appium, Katalon
 
-- ISTQB - Certified Tester Foundation Level (CTFL)
+JavaScript / TypeScript automation frameworks
 
-## Speaking Engagements
-- Test Festival
-- Empower Her
-- Women who code
+Page Object Model (POM) and maintainable test design
 
-## Mentoring
-- DevCareer
-- She Code Africa
-- The Bug Detective
+CI/CD integration with GitHub Actions, Jenkins, Docker
 
-## Projects
+API Testing
 
-### [Mocha and Chai API assertions](https://github.com/Estherokafor05/Mocha-API-test)
-- **Description**: The project involved testing an API endpoint from the Star Wars API (https://swapi.dev/api). I developed and executed Mocha API tests to verify the response data, headers, and schema validation. Challenges included handling asynchronous requests and ensuring accurate JSON schema validation. 
-- **Technologies**: 
-Mocha
-Chai
-Supertest
-Star Wars API (swapi.dev)
+RESTful API testing using Postman & Newman
 
-## Blog/Articles
+CRUD operations, error handling, and negative scenarios
 
-[https://estherokafor.com/](https://estherokafor.com/)
+API debugging using Chrome DevTools and logs
 
-## Contact Information
+Test Management & Quality Tracking
 
-- **Email**: estherokafor05@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/okaforesther/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Estherokafor05)
+Jira, Xray, TestRail
 
-Feel free to contact me for any inquiries, collaborations, or opportunities. Thank you for visiting my portfolio!
+Test plans, coverage tracking, and release reporting
+
+Tools & Technologies
+
+Playwright · Cypress · Postman · Newman · JMeter · Git/GitHub · GitHub Actions · Jenkins · Docker · BrowserStack · Mocha · Chai · Chrome DevTools
+
+Professional Experience
+Storyblok GmbH — QA Engineer
+
+Vienna, Austria | 2022 – Present
+
+Built and maintained 700+ automated UI and API tests, significantly improving regression coverage
+
+Implemented visual UI testing, reducing UI defects and improving overall product stability
+
+Optimised API testing with Postman & Newman, reducing execution time by 40%
+
+Authored and maintained structured test plans in Xray, contributing to a 50% reduction in critical production defects
+
+Collaborated closely with distributed engineering teams to embed quality into the SDLC
+
+Flutterwave — Quality Control Analyst
+
+2022 – 2023
+
+Tested middleware and POS merchant services, ensuring backend reliability
+
+Supported cross-team testing initiatives and customer-centric quality strategies
+
+Identified and communicated risk areas early, improving release confidence
+
+Renmoney MFB — Mobile QA Engineer
+
+2021 – 2022
+
+Led mobile automation using Katalon, reducing regression time by 50%
+
+Designed and executed end-to-end testing strategies for loan and banking services
+
+Venture Garden Group — QA Engineer
+
+2020 – 2021
+
+Built automation plans using Cypress and Postman
+
+Integrated automated tests into Jenkins CI pipelines
+
+Supported multiple delivery streams with consistent quality practices
+
+Education
+
+Higher National Diploma (HND), Mass Communication — Yaba College of Technology
+
+Ordinary National Diploma (OND), Mass Communication — Federal Polytechnic Oko
+
+Certifications
+
+ISTQB – Certified Tester Foundation Level (CTFL)
+
+Speaking & Community
+
+Speaking Engagements
+
+Test Festival
+
+Empower Her
+
+Women Who Code
+
+Mentoring
+
+DevCareer
+
+She Code Africa
+
+The Bug Detective
+
+Projects
+Mocha & Chai API Assertions
+
+🔗 https://github.com/Estherokafor05/Mocha-API-test
+
+API testing project using the Star Wars API (swapi.dev)
+
+Implemented assertions for response data, headers, and schema validation
+
+Focused on async request handling and reliable API validations
+
+Tech Stack
+Mocha · Chai · Supertest · REST APIs
+
+Blog & Writing
+
+✍🏽 https://estherokafor.com/
+
+Get in Touch
+
+I’m always open to:
+
+Senior QA / QA Engineer opportunities
+
+Collaboration on testing tools or community initiatives
+
+Mentorship and speaking engagements
+
+📧 Email: estherokafor05@gmail.com
